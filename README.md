@@ -71,3 +71,29 @@
          Important features :Engine Size(L),Fuel Type,Fuel Consumption City (L/100 km), Fuel Consumption Comb (L/100 km), Fuel Consumption Comb (mpg).
   
 # References
+1. F. Perera, “Pollution from fossil-fuel combustion is the leading environmental threat to Global Pediatric Health and Equity: Solutions Exist,” International journal of environmental research and public health, 23-Dec-2017. [Online]. Available: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5800116/ . [Accessed: 14-Apr-2022].
+“Faster adoption and manufacturing of (Hybrid &) Electric ...” [Online]. Available: https://heavyindustries.gov.in/UserView/index?mid=2418. [Accessed: 04-Mar-2022]. 
+2. N. Ma, W. Y. Shum, T. Han, and F. Lai, “Can machine learning be applied to carbon emissions analysis: An application to the CO2 emissions analysis using gaussian process regression,” Frontiers, 01-Jan-1AD. [Online]. Available: https://www.frontiersin.org/articles/10.3389/fenrg.2021.756311/full. [Accessed:05 -Apr-2022]. 
+3. D. Podder, “CO2 emission by vehicles,” Kaggle, 05-Aug-2020. [Online]. Available: https://www.kaggle.com/datasets/debajyotipodder/co2-emission-by-vehicles. [Accessed: 22-Apr-2022]. 
+4.  J Mater Environ Sci.com, Journal of Materials and Environmental Science. [Online]. Available: https://www.jmaterenvironsci.com/Journal/vol11-2.html. [Accessed: 22-Apr-2022].
+5. Iea, “Tracking Transport 2020 – analysis,” IEA, 01-Jun-2020. [Online]. Available: https://www.iea.org/reports/tracking-transport-2020. [Accessed: 18-Mar-2022]. 
+6. H. Ritchie and M. Roser, “Emissions by sector,” Our World in Data, 11-May-2020. [Online]. Available: https://ourworldindata.org/emissions-by-sector#:~:text=The%20global%20breakdown%20for%20CO,transport%2C%20and%20manufacturing%20and%20construction. [Accessed: 15-Mar-2022]. 
+7. “Fuel consumption ratings,” Open Government Portal. [Online]. Available: https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64#wb-auto-6. [Accessed: 27-Mar-2022]. 
+8. R. Lee, “Are automotive suppliers ready for the move to electrification?,” LinkedIn, 06-Apr-2021. [Online]. Available: https://www.linkedin.com/pulse/automotive-suppliers-ready-move-electrification-ron-lee. [Accessed: 16-Mar-2022]. 
+
+9. “Can machine learning be applied to carbon emissions ...” [Online]. Available: https://www.researchgate.net/publication/354838594_Can_Machine_Learning_be_Applied_to_Carbon_Emissions_Analysis_An_Application_to_the_CO2_Emissions_Analysis_Using_Gaussian_Process_Regression/. [Accessed: 02-Mar-2022]. 
+
+10. “Structural breaks in carbon emissions: A machine ... - imf.org.” [Online]. Available: https://www.imf.org/-/media/Files/Publications/WP/2022/English/wpiea2022009-print-pdf.ashx. [Accessed: 10-Mar-2022]. 
+
+11. “Fuel consumption ratings,” Open Government Portal. [Online]. Available: https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64#wb-auto-6. [Accessed: 10-Mar-2022]. 
+
+13.Eeer.org. 2022. [online] Available at: <https://www.eeer.org/upload/eer-1489554553.pdf>  [Accessed 21 April 2022].
+
+14.  Iopscience.iop.org. 2022. ShieldSquare Captcha. [online] Available at: <https://iopscience.iop.org/article/10.1088/1757-899X/114/1/012148/pdf > [Accessed 21 April 2022].
+
+
+
+
+
+
+

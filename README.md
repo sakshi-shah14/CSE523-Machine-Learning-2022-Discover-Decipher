@@ -4,9 +4,9 @@ CO2 Emissions Prediction using Machine Learning Algorithms
 The project and the presentation is showcased on the basis of the information available on kaggle.The usage of different techniques for the prediction of Co2 emissions  considering 11 features and respective vehicles(different models) was taken into consideration while implementation of the project. Regression  and classification machine learning algorithms were widely used in the project.
  
 # Methods
-   Machine Learning 
-           1. Data Cleaning
-           2. Data analysis
+    1.  Machine Learning 
+    2.  Data Cleaning
+    3.  Data analysis
 # Technologies 
 1. Python
 2. Pandas, NumPy

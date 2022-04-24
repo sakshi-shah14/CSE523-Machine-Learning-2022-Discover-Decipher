@@ -57,9 +57,17 @@ The project and the presentation is showcased on the basis of the information av
  
 2. AUC-ROC (Area under the curve and Receiver Operating characteristics )
 
-      Visualizes and defines the quality of the performance for classification problems.
-      ROC represents the probability curve and AUC defines the measure at which there is a separability.
-      few measures taken into considertion are , 
+         Visualizes and defines the quality of the performance for classification problems.
+         ROC represents the probability curve and AUC defines the measure at which there is a separability.
+         few measures taken into considertion are , 
       
          1. TPR(True Positive Rate) : (TP)/(TP + FN)
          2. FPR (False Postive Rate) : (FP)/(FP +TN)
+
+# Results
+
+         Regression : Accuracy achieved - 0.9961 for Decision Tree Regression, with 5 feature variable input the model predicts real value of CO2 Emission in g/km. 
+         Classification : Accuracy achieved 0.98 for random forest classifier, input the feature variables and output will be the class label in which the vehicle belongs.
+         Important features :Engine Size(L),Fuel Type,Fuel Consumption City (L/100 km), Fuel Consumption Comb (L/100 km), Fuel Consumption Comb (mpg).
+  
+# References

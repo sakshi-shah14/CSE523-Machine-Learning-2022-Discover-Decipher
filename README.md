@@ -1,7 +1,7 @@
 # CSE523-Machine-Learning-2022-Discover-Decipher
-CO2 Emissions Prediction using Machine Learning Algorithms
+  CO2 Emissions Prediction using Machine Learning Algorithms
 # Introduction
-The project and the presentation is showcased on the basis of the information available on kaggle.The usage of different techniques for the prediction of Co2 emissions  considering 11 features and respective vehicles(different models) was taken into consideration while implementation of the project. Regression  and classification machine learning algorithms were widely used in the project.
+     The project and the presentation is showcased on the basis of the information available on kaggle.The usage of different techniques for the prediction of Co2          emissions  considering 11 features and respective vehicles(different models) was taken into consideration while implementation of the project. Regression  and          classification machine learning algorithms were widely used in the project.
  
 # Methods
     1.  Machine Learning 
